@@ -10,3 +10,5 @@ Bu print alma örneğidir.
 console.log("Hello");
 let a = 0;
 ```
+
+Çeşitli örnekler
