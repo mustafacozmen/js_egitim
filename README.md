@@ -11,4 +11,4 @@ console.log("Hello");
 let a = 0;
 ```
 
-Çeşitli örnekler
+Çeşitli örnekler, remote yeni kodlar
